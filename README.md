@@ -24,16 +24,13 @@ I am passionate CS professional with a strong background in data engineering, sy
 
 - 🌟 CS50, AI,Python,CS
 
+<!--
 
 // ## 📬 Get in Touch
 
-// - Connect with me on [Twitter](https://twitter.com/introvertedbot)
+// - Connect with me on [---](https://)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of Artificial Intelligence. 🚀
-
-
-
-<!--
 
 Here are some ideas to get you started:
 
@@ -46,11 +43,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-
-
 
 - 👋 Hi, I’m @irfan-manzoor
 - 👀 I’m interested in Artificial Intelligence
@@ -69,4 +61,3 @@ Here are some ideas to get you started:
 irfan-manzoor/irfan-manzoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-

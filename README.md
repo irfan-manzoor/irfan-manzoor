@@ -1,12 +1,12 @@
 # Hi, I'm Irfan Manzoor! 👋
 
-I am passionate CS professional with a strong background in data engineering, systems optimization, and technology leadership, driven by a curiosity for technology. I have consistently driven innovation and excellence throughout my career. From spearheading the integration of advanced data science techniques to leading transformative projects in predictive analytics and personalized user experiences. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am passionate CS professional with a background in artificial intelligence, machine learning, data science, data analytics, data engineering, systems optimization, and driven by a curiosity for technology. I have consistently driven innovation and excellence throughout my career. From spearheading the integration of advanced data science techniques to leading transformative projects in predictive analytics and personalized user experiences. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![irfan-manzoor's Stats](https://github-readme-stats.vercel.app/api?username=irfan-manzoor&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at UoPeople, USA.
+- 🔭 I'm currently pursuing...... EVERYTHING!...
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=apple,arch,linux,c,py,cpp,git,github,md,vscode,obsidian,)](https://skillicons.dev)
@@ -14,7 +14,7 @@ I am passionate CS professional with a strong background in data engineering, sy
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Artificial Intelligence, Machine Learning, Data Science
-  - Exploring the ins and outs of Data Science techniques.
+  - Exploring the ins and outs of Artificial Intelligence techniques.
   - Navigating through the world of Machine Learning algorithms.
   - Styling with Python to create modern and responsive codebases.
   - Building applications with Python and C.
@@ -22,7 +22,7 @@ I am passionate CS professional with a strong background in data engineering, sy
 
  ## 🏆 Achievements
 
-- 🌟 CS50, AI,Python,CS
+- 🌟 just too much......
 
 <!--
 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning AI / ML
 - 💞️ I’m looking to collaborate on AI & ML projects
-- 📫 How to reach me 
+- 📫 How to reach me NO IDEA!
 - 😄\
   Having Access to\
   People Smarter\

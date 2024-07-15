@@ -9,7 +9,7 @@ I am passionate CS professional with a strong background in data engineering, sy
 - 🔭 I'm currently pursuing my Master's in Computer Science at UoPeople, USA.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=linux,apple,arch,c,cpp,py,git,github,md,vscode,obsidian,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,arch,linux,c,py,cpp,git,github,md,vscode,obsidian,)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 

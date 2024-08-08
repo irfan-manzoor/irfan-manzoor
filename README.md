@@ -1,4 +1,4 @@
-# Hi, I'm Irfan Manzoor! 👋
+# I AM Irfan Manzoor! 👋
 
 I am passionate CS professional with a background in artificial intelligence, machine learning, data science, data analytics, data engineering, systems optimization, and driven by a curiosity for technology. I have consistently driven innovation and excellence throughout my career. From spearheading the integration of advanced data science techniques to leading transformative projects in predictive analytics and personalized user experiences. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 

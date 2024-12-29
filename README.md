@@ -1,12 +1,12 @@
-# I AM Irfan Manzoor! 👋
+# I AM Arfan! 👋
 
-I am passionate CS professional with a background in artificial intelligence, machine learning, data science, data analytics, data engineering, systems optimization, and driven by a curiosity for technology. I have consistently driven innovation and excellence throughout my career. From spearheading the integration of advanced data science techniques to leading transformative projects in predictive analytics and personalized user experiences. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+Passionate CS professional with a background in artificial intelligence, machine learning, data science, data analytics, systems optimization, and driven by a curiosity for technology. I have consistently driven innovation and excellence throughout my career. From spearheading the integration of advanced data science techniques to leading transformative projects in predictive analytics and personalized user experiences. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![irfan-manzoor's Stats](https://github-readme-stats.vercel.app/api?username=irfan-manzoor&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing...... EVERYTHING!...
+- 🔭 Pursuing...... EVERYTHING!...
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=apple,arch,linux,c,py,cpp,git,github,md,vscode,obsidian,)](https://skillicons.dev)

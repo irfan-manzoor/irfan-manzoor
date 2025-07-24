@@ -9,7 +9,7 @@ Passionate CS professional with a background in artificial intelligence, machine
 - 🔭 Pursuing...... EVERYTHING!...
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=apple,arch,linux,c,py,cpp,git,github,md,vscode,obsidian,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,arch,linux,c,py,git,github,md,vscode,)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 

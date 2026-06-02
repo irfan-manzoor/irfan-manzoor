@@ -1,6 +1,6 @@
 # I AM Arfan! 👋
 
-Passionate CS professional with a background in artificial intelligence, machine learning, data science, data analytics, systems optimization, and driven by a curiosity for technology. I have consistently driven innovation and excellence throughout my career. From spearheading the integration of advanced data science techniques to leading transformative projects in predictive analytics and personalized user experiences. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+Passionate CS professional with a background in artificial intelligence, machine learning, data science, systems optimization, and driven by a curiosity for technology. From spearheading the integration of advanced data science techniques to leading transformative projects in predictive analytics and personalized user experiences. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![irfan-manzoor's Stats](https://github-readme-stats.vercel.app/api?username=irfan-manzoor&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -17,8 +17,7 @@ Passionate CS professional with a background in artificial intelligence, machine
   - Exploring the ins and outs of Artificial Intelligence techniques.
   - Navigating through the world of Machine Learning algorithms.
   - Styling with Python to create modern and responsive codebases.
-  - Building applications with Python and C.
-  - Diving into Linux, C++, Tableau, Tensorflow and more.....
+  - Diving into C, Linux, Docker, and more.....
 
  ## 🏆 Achievements
 
